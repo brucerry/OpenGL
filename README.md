@@ -1,4 +1,4 @@
-OpenGL
+# OpenGL
 
 ## Resources from "The Cherno" on Youtube:
 
